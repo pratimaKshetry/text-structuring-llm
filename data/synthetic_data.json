@@ -1,0 +1,37 @@
+[
+  {
+    "instruction": "Convert the shorthand clinical note into a structured summary.",
+    "input": "Pt c/o SOB x3d, hx COPD, O2 sat 89% RA",
+    "output": "Patient reports shortness of breath for 3 days with a history of COPD. Oxygen saturation is 89% on room air."
+  },
+  {
+    "instruction": "Convert the shorthand clinical note into a structured summary.",
+    "input": "45M w/ CP since morning, denies N/V, BP 150/95",
+    "output": "45-year-old male presents with chest pain since this morning. Denies nausea or vomiting. Blood pressure is 150 over 95."
+  },
+  {
+    "instruction": "Convert the shorthand clinical note into a structured summary.",
+    "input": "Pt febrile 102F, c/o chills + fatigue, WBC elevated",
+    "output": "Patient has a fever of 102°F and reports chills and fatigue. White blood cell count is elevated."
+  },
+  {
+    "instruction": "Convert the shorthand clinical note into a structured summary.",
+    "input": "Hx DM2, BS 280, pt noncompliant w/ meds",
+    "output": "Patient has a history of type 2 diabetes. Blood sugar is 280. Patient reports noncompliance with medications."
+  },
+  {
+    "instruction": "Convert the shorthand clinical note into a structured summary.",
+    "input": "Pt c/o abd pain RLQ, worse w/ movement, no fever",
+    "output": "Patient reports right lower quadrant abdominal pain that worsens with movement. No fever is present."
+  },
+  {
+    "instruction": "Convert the shorthand clinical note into a structured summary.",
+    "input": "70F w/ dizziness x2d, denies LOC, HR 52",
+    "output": "70-year-old female reports dizziness for 2 days. Denies loss of consciousness. Heart rate is 52."
+  },
+  {
+    "instruction": "Convert the shorthand clinical note into a structured summary.",
+    "input": "Pt c/o HA, photophobia, hx migraines",
+    "output": "Patient reports headache with sensitivity to light and has a history of migraines."
+  }
+]
