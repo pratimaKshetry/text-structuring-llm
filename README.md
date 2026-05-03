@@ -41,23 +41,7 @@ Pt c/o SOB x3d, hx COPD, O2 sat 89% RA
 Patient reports shortness of breath for 3 days with a history of COPD. Oxygen saturation is 89% on room air.
 
 ##**Project Structure**
-      text-structuring-llm/
-      │
-      ├── data/
-      │ └── synthetic_dataset.json
-      │
-      ├── src/
-      │ ├── preprocess.py
-      │ ├── train.py
-      │ ├── inference.py
-      │
-      ├── notebooks/
-      │ └── fine_tune.ipynb
-      │
-      ├── outputs/
-      │ └── sample_predictions.txt
-      │
-      └── README.md
+      Follows the general project folder structure
 
  ##setup
  #Install dependencies: pip install -r requirements.txt
