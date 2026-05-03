@@ -118,7 +118,8 @@ No real-world or sensitive data is included. Dataa is synthetic
 - Add evaluation metrics and benchmarks  
 - Introduce structured output formats (JSON, templates)  
 - Build a lightweight API or demo interface  
-- Integrate into a larger document processing pipeline  
+- Integrate into a larger document processing pipeline
+- TBD
 
 ---
 
