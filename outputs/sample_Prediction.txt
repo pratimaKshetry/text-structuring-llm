@@ -1,0 +1,5 @@
+Input: Pt c/o SOB x2d, hx asthma, O2 92%
+Output: Patient reports shortness of breath for 2 days with a history of asthma. Oxygen saturation is 92%.
+
+Input: 60M w/ CP, BP 160/100, denies dizziness
+Output: 60-year-old male presents with chest pain. Blood pressure is 160 over 100. Denies dizziness.
