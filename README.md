@@ -105,8 +105,8 @@ Future improvements could include:
 
 ##  Data & Privacy
 All data used in this project is:
-- Synthetic  
-- Publicly inspired  
+- Synthetic (see the src folder for the data generation code)  
+
 
 No real-world or sensitive data is included. Dataa is synthetic
 
